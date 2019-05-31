@@ -2,8 +2,6 @@
 /**
  * ImgUR API.
  * @link https://apidocs.imgur.com/?version=latest#intro
- * @link https://gist.github.com/scottydelta/7971955
- *
  */
 class ImgurAPI{
 	/**
